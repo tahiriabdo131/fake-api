@@ -1,23 +1,23 @@
 {
   "students": [
     {
-      "name": "Moustapha el outhmani",
+      "name": "joao Felix",
       "mark": 2,
       "id": 1
     },
     {
       "id": 2,
-      "name": "Mohamed El yousfi",
+      "name": "patrick vieira",
       "mark": 15
     },
     {
       "id": 3,
-      "name": "oumaiyma Intissar",
+      "name": "Luka Modric",
       "mark": 13
     },
     {
       "id": 4,
-      "name": "Mohamed El yousfi",
+      "name": "Sergio Busquets",
       "mark": 13
     }
   ],
