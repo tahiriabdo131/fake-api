@@ -8,4 +8,5 @@
 # Resources : 
 
 The API is created by Node.js and hosted in [Render](https://render.com/) (Free alternative to Heroku)
+
 You can also use [Cyclic](https://www.cyclic.sh/)
